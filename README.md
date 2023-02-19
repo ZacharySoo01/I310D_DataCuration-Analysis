@@ -4,6 +4,8 @@ This is the repository specifically for Assignment 7: Data Curation and Analysis
 GOAL: To extract population data from different cities in the US and perform analysis on it 
 LICENSE: MIT License
 SOURCE DATA: https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population
+
+
 DATA DICTIONARY:
 - City Rank in 2021: the rank of the city based on the population, datatype: int
 - City: the city name, datatype: string
