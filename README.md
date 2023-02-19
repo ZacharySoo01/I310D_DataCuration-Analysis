@@ -21,3 +21,4 @@ DATA DICTIONARY (name, description, datatype):
 
 ISSUES:
 - Data may be slightly inaccurate due to COVID-19 pandemic
+- This dataset only contains information from 2020-2021
