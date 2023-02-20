@@ -22,3 +22,8 @@ DATA DICTIONARY (name, description, datatype):
 ISSUES:
 - Data may be slightly inaccurate due to COVID-19 pandemic
 - This dataset only contains information from 2020-2021
+
+NOTES:
+- Used modules pandas, BeautifulSoup, requests, pyplot
+- 300+ datapoints, with 8 attributes
+- No apis were used to collect data
