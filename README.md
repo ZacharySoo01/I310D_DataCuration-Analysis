@@ -1,7 +1,7 @@
 # I310D_Assignment7
 This is the repository specifically for Assignment 7: Data Curation and Analysis.
 
-GOAL: To extract population data from the many different municipalities in Texas, clean the data, and lastly perform analysis on it, like analyzing the percent change of each Texas municipality and comparing the differences in population between the top 10 Texas municipalities.
+GOAL: To extract population data from the many different municipalities in Texas, clean the data, and lastly perform analysis on it, like analyzing the percent change of each Texas municipality and comparing the differences in population census between the top 10 Texas municipalities.
 
 LICENSE: MIT License
 
@@ -20,6 +20,7 @@ DATA DICTIONARY (name, description, datatype):
 - % Change: the municipality percent of population change between 2020 and 2021, datatype: float
 
 ANALYSIS: 
+
 ![Histogram of the 2020 Population Census of Texas Municipalities](Histogram_Census.png)
 - Here is the Histogram of the 2020 Census data for Municipalities in Texas
 - I wanted to analyze the differences in population for different municipalities in Texas
