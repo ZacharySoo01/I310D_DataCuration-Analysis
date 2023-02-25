@@ -28,3 +28,5 @@ NOTES:
 - Used modules/APIs such as pandas, BeautifulSoup, requests, pyplot, matplotlib
 - 1200+ datapoints, with 8 attributes
 
+ANALYSIS: 
+![Histogram of the 2020 Population Census of Texas Municipalities](Histogram_Census.png)
