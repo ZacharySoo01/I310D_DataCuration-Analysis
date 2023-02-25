@@ -1,7 +1,7 @@
 # I310D_Assignment7
 This is the repository specifically for Assignment 7: Data Curation and Analysis.
 
-GOAL: To extract population data from the many different cities in the Texas and perform analysis on it 
+GOAL: To extract population data from the many different municipalities in Texas, clean the data, and lastly perform analysis on it, like analyzing the percent change of each Texas municipality and comparing the differences in population between the top 10 Texas municipalities.
 
 LICENSE: MIT License
 
@@ -20,8 +20,9 @@ DATA DICTIONARY (name, description, datatype):
 - % Change: the municipality percent of population change between 2020 and 2021, datatype: float
 
 ISSUES:
-- Some datapoints were omitted due to having a "-" or null values
-- This dataset only contains information from 2020,2021, and 2010
+- Some datapoints were omitted due to having a "-" or null values in the columns with the 2020 and 2010 census
+- This dataset only contains population information from 2020,2021, and 2010
+- The data is not normal due a skew in population with municipalities such as Houston, Dallas, and San Antonio.
 
 NOTES:
 - Used modules/APIs such as pandas, BeautifulSoup, requests, pyplot
