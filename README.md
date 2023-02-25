@@ -19,6 +19,23 @@ DATA DICTIONARY (name, description, datatype):
 - 2010 Census: the population census of the municipality in 2010, datatype: int
 - % Change: the municipality percent of population change between 2020 and 2021, datatype: float
 
+ANALYSIS: 
+![Histogram of the 2020 Population Census of Texas Municipalities](Histogram_Census.png)
+- Here is the Histogram of the 2020 Census data for Municipalities in Texas
+- I wanted to analyze the differences in population for different municipalities in Texas
+![Histogram of the %Change (2010-2020) of Texas Municipalities](Histogram_%Change.png)
+- Here is the Histogram of the %Change (2010-2020) for Municipalities in Texas
+- I wanted to analyze the differences in percent change for different municipalities in Texas and see how vast they were in Histogram form
+![Boxplot of the 2020 Population Census of Texas Municipalities](Boxplot_Census.png)
+- Here is the Boxplot of the 2020 Census data for Municipalities in Texas
+- I wanted to analyze the differences in population for different municipalities in Texas in boxplot form and see if outlier occured with the grouping of the points 
+![Boxplot of the %Change (2010-2020) of Texas Municipalities](Boxplot_%Change.png)
+- Here is the Boxplot of the %Change (2010-2020) for Municipalities in Texas
+- Similarly, I wanted to analyze the differences in percent change for different municipalities in Texas in boxplot form and see if outlier occured with the grouping of the points 
+![Barchart between the Texas Municipality and 2020 Census Data](Barchart.png)
+- Lastly, here is a Barchart between the Texas Municipality and 2020 Census Data
+- I wanted to see the top 10 municipalities of Texas in 2020 and compare the population census data between them to see if the differences were vast in barchart form
+
 ISSUES:
 - Some datapoints were omitted due to having a "-" or null values in the columns with the 2020 and 2010 census
 - This dataset only contains population information from 2020, 2021, and 2010
@@ -27,6 +44,3 @@ ISSUES:
 NOTES:
 - Used modules/APIs such as pandas, BeautifulSoup, requests, pyplot, matplotlib
 - 1200+ datapoints, with 8 attributes
-
-ANALYSIS: 
-![Histogram of the 2020 Population Census of Texas Municipalities](Histogram_Census.png)
