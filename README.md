@@ -21,7 +21,7 @@ DATA DICTIONARY (name, description, datatype):
 
 ISSUES:
 - Some datapoints were omitted due to having a "-" or null values in the columns with the 2020 and 2010 census
-- This dataset only contains population information from 2020,2021, and 2010
+- This dataset only contains population information from 2020, 2021, and 2010
 - The data is not normal due a skew in population with municipalities such as Houston, Dallas, and San Antonio.
 
 NOTES:
