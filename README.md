@@ -58,5 +58,10 @@ ISSUES:
 - The data is not normal due a skew in population with municipalities such as Houston, Dallas, and San Antonio.
 
 NOTES:
-- Used modules/APIs such as pandas, BeautifulSoup, requests, pyplot, matplotlib
+- Used modules/APIs such as pandas, BeautifulSoup, requests, matplotlib, numpy
+- Link to BeautifulSoup Documentation: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+- Link to pandas Documentation: https://pandas.pydata.org/docs/
+- Link to matplotlib Documentation: https://matplotlib.org/stable/index.html
+- Link to requests Documentation: https://requests.readthedocs.io/en/latest/
+- Link to NumPy Documentation: https://numpy.org/doc/
 - 1200+ datapoints, with 8 attributes
