@@ -24,13 +24,13 @@ ANALYSIS:
 ![Histogram of the 2020 Population Census of Texas Municipalities](Histogram_Census.png)
 - Here is the Histogram of the 2020 Census data for Municipalities in Texas
 - I wanted to analyze the differences in population for different municipalities in Texas
-![Histogram of the %Change (2010-2020) of Texas Municipalities](Histogram_%Change.png)
+![Histogram of the %Change (2010-2020) of Texas Municipalities](/assets/images/Histogram_%Change.png)
 - Here is the Histogram of the %Change (2010-2020) for Municipalities in Texas
 - I wanted to analyze the differences in percent change for different municipalities in Texas and see how vast they were in Histogram form
 ![Boxplot of the 2020 Population Census of Texas Municipalities](Boxplot_Census.png)
 - Here is the Boxplot of the 2020 Census data for Municipalities in Texas
 - I wanted to analyze the differences in population for different municipalities in Texas in boxplot form and see if outlier occured with the grouping of the points 
-![Boxplot of the %Change (2010-2020) of Texas Municipalities](Boxplot_%Change.png)
+![Boxplot of the %Change (2010-2020) of Texas Municipalities](/assets/images/Boxplot_%Change.png)
 - Here is the Boxplot of the %Change (2010-2020) for Municipalities in Texas
 - Similarly, I wanted to analyze the differences in percent change for different municipalities in Texas in boxplot form and see if outlier occured with the grouping of the points 
 ![Barchart between the Texas Municipality and 2020 Census Data](Barchart.png)
