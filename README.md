@@ -1,5 +1,5 @@
 # I310D_Assignment7
-This is the repository specifically for Assignment 7: Data Curation and Analysis.
+DESCRIPTION: This is the repository for Assignment 7: Data Curation and Analysis. It contains png files, the ipnyb file for this assignment, the MIT License, the clean and raw data stored in csv, and the README.md file
 
 GOAL: To extract population data from the many different municipalities in Texas, clean the data, and lastly perform analysis on it, like analyzing the percent change of each Texas municipality and comparing the differences in population census between the top 10 Texas municipalities.
 
